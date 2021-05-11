@@ -1,1 +1,1 @@
-# heart-disease-shiny-web-spp
+# heart-disease-shiny-web-app
